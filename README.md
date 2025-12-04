@@ -1,0 +1,1 @@
+Built a game using Cursor with my brother. You have to try to guess a number 1-100 with hints of higher or lower. Once you guess it correctly you can enter a nickname and be featured on the leaderboard!
